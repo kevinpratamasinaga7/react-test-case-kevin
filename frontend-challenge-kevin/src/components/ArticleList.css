@@ -1,0 +1,22 @@
+.article-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.article-card {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.read-button {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.read-button:hover {
+    background-color: lightblue;
+    color: black;
+}

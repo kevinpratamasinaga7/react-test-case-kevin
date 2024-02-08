@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: cornflowerblue;
+}
+
+.app-title {
+  color: #fff;
+}
+
+.container {
+  padding: 0 48px;
+}
+
+.footer {
+  text-align: center;
+}
